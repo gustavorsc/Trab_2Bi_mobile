@@ -1,0 +1,9 @@
+build/
+.android/
+.ios/
+.packages
+.dart_tool/
+.idea/
+.vscode/
+.flutter-plugins
+.flutter-plugins-dependencies
