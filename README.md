@@ -82,3 +82,5 @@ Este projeto é um app mobile multiplataforma (Android, iOS e Web) desenvolvido 
 # Video De Demonstração
 
 !![Video de demonstração de uso](https://github.com/user-attachments/assets/8811495e-ccc5-42d6-b205-4780c39bd3f8)
+
+# [Link para teste](https://gustavorsc.github.io/Trab_2Bi_mobile/)
